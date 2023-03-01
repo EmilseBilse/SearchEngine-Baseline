@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleSearch", "ConsoleSea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{CE712703-C16E-4CB9-B118-A07B582E45DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchAPI", "SearchAPI\SearchAPI.csproj", "{F117C0E4-2E40-4C60-8336-A7A5F0CCFECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSearch", "WebSearch\WebSearch.csproj", "{3AD6D3DD-B543-405C-BA02-77297EE9D397}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{CE712703-C16E-4CB9-B118-A07B582E45DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE712703-C16E-4CB9-B118-A07B582E45DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE712703-C16E-4CB9-B118-A07B582E45DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F117C0E4-2E40-4C60-8336-A7A5F0CCFECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F117C0E4-2E40-4C60-8336-A7A5F0CCFECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F117C0E4-2E40-4C60-8336-A7A5F0CCFECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F117C0E4-2E40-4C60-8336-A7A5F0CCFECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AD6D3DD-B543-405C-BA02-77297EE9D397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD6D3DD-B543-405C-BA02-77297EE9D397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD6D3DD-B543-405C-BA02-77297EE9D397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD6D3DD-B543-405C-BA02-77297EE9D397}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
